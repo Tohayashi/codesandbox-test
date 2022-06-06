@@ -21,5 +21,5 @@ val2 = "let変数を上書き";
 console.log(val2);
 
 // var変数は再宣言不可能 -> エラーが出る
-let val2 = "let変数を再宣言";
-console.log(val2);
+// let val2 = "let変数を再宣言";
+// console.log(val2);
